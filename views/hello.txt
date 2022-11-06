@@ -1,4 +1,8 @@
 hello vishnu and hai
+<<<<<<< HEAD
 thid is monster
 hello vishnu and hai
 thid is monster
+=======
+thid i
+>>>>>>> feature
